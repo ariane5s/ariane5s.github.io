@@ -1,39 +1,29 @@
-- name: "CookieEaterDevs"
-  position:
-    fr: "Développeur"
-    en: "Developer"
-  description:
-    fr: "Développement de solutions logicielles et applications (DROP'in)"
-    en:
-  start: "15-01"
-  end: "now"
+- name: "Le Carillon Marseille"
+  date: "05/2017 - 08/2017"
+  description: >
+    Bénévole au sein de l'association qui a pour mission de créer du lien social entre commerçants,
+    habitants et personnes sans domicile ; réalisation des affiches, flyers et plaquettes de présentation
 
-- name: "CenterWay"
-  position:
-    fr: "Trésorier"
-    en: "Treasurer"
-  description:
-    fr: "Développement de projets prototypés"
-    en:
-  start: "15-04"
-  end: "now"
+- name: "Götastudentkår (Suède)"
+  date: "11/2015 - 04/2016"
+  description: >
+    Elue au comité de prises de décisions de l'association GötaStuentkår (deuxième plus grande association
+    étudiante en Suède)
 
-- name: "AssoM"
-  position:
-    fr: "Membre actif"
-    en:
-  description:
-    fr: "Staff et développement d'outils de communication numériques"
-    en:
-  start: "14-11"
-  end: "16-06"
+- name: "Projet d'enquête (Bordeaux)"
+  date: "04/2015"
+  description: >
+    Sélectionnée pour réaliser une enquête sociologique analysant les conditions de travail des étudiants en
+    Licence 3 à l'Université de Bordeaux
 
-- name: "BDE Inform'Aix"
-  position:
-    fr: "Président"
-    en:
-  description:
-    fr: "Présidence du Bureau des Etudiants du département Informatique de l'IUT d'Aix-Marseille"
-    en:
-  start: "14-02"
-  end: "15-04"
+- name: "Les Restaurants du Cœur (Bordeaux)"
+  date: "11/2014 - 03/2015"
+  description: >
+    Bénévole pendant la campagne d'Hiver (réception et inscription des bénéficiaires, traduction et distribution
+    de la nourriture)
+
+- name: "International Hostelling Organization (Allemagne)"
+  date: "08/2014"
+  description: >
+    Sélectionnée pour participer à une rencontre culturelle entre jeunes venus de France, Allemagne et Turquie sur
+    le thème des droits de l'Homme organisée par la Fédération Unie des Auberges de Jeunesses (FUAJ)
