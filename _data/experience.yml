@@ -1,31 +1,14 @@
-- company: "Zei"
-  website: "https://zei-world.com"
-  position:
-    fr: "Directeur technique (CTO)"
-    en: "Chief Technology Officer"
-  start: "16-10"
-  end: "now"
+- name: "Le Carillon Marseille"
+  date: "09/2017 - 06/2018"
+  description: >
+    Coordinatrice du 6ème arrondissement et graphiste de l'association ; démarchage et intégration des
+    commerces au réseau, gestion des formations, des bénévoles et des sensibilisations de rue,
+    administation du Système d'Informations
 
-- company: "Zero ecoimpact"
-  website: "https://zero-ecoimpact.org"
-  position:
-    fr: "Développeur"
-    en: "Chief Technology Officer"
-  start: "16-04"
-  end: "16-10"
+- name: "Entreprise Options (Vitrolles)"
+  date: "06/2015"
+  description: "Manutentionnaire responsable de la plonge"
 
-- company: "Digitick SA"
-  website: "http://www.digitick.com"
-  position:
-    fr: "Stagiaire développeur Digitick Systems"
-    en: "Digitick Systems Intern Developer"
-  start: "15-04"
-  end: "15-06"
-
-- company: "AlloDJMarseille"
-  website: "https://allodjmarseille.fr"
-  position:
-    fr: "Technicien référent, animateur DJ et lightjockey"
-    en: "Supervisor engineer, DJ and lightjockey"
-  start: "14-03"
-  end: "17-08"
+- name: "Entreprise Options (Vitrolles)"
+  date: "06/2014 - 07/2014"
+  description: "Manutentionnaire responsable des retours couverts, de la qualité des nappages"
