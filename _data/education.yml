@@ -1,15 +1,21 @@
-- name: "Licence 3 Informatique"
-  school: "Luminy - Aix-Marseille Université"
-  year: "2016"
+- name: "Master de Sciences Humaines et Sociales"
+  school: "Université de Göteborg (Suède)"
+  description:
+    - "Programme Erasmus"
+    - "Distinction : titulaire de la bourse au mérite IdEx"
+    - "Mémoire : \"Étude de la pratique du vélo dans l'espace urbain\""
+  year: "2015 - 2016"
 
-- name: "Diplôme d’Étudiant Entrepreneur"
-  school: "Aix-Marseille Université"
-  year: "2015"
+- name: "Licence de Sociologie"
+  school: "Université de Bordeaux (33)"
+  description:
+    - "Mention Très-Bien, deuxième de la promotion"
+  year: "2014 - 2015"
 
-- name: "DUT Informatique"
-  school: "IUT Aix-en-Provence - Aix-Marseille Université"
-  year: "2015"
+- name: "Classes préparatoires BL"
+  school: "Lycée Thiers, Marseille (13)"
+  year: "2012 - 2014"
 
-- name: "Baccalauréat Général Scientifique"
-  school: "Lycée Jean-Perrin - Marseille"
-  year: "2013"
+- name: "Baccalaureat Scientifique (option Maths)"
+  school: "Lycée Jean Monnet, Vitrolles (13)"
+  year: "2012"
