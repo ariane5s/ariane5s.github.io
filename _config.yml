@@ -1,28 +1,15 @@
-title: Nazim Lachter
+title: Ariane Save
 
-description: >
-  Nazim Lachter : développeur spécialisé dans la recherche et la réalisation d’idées originales.
-  Retrouvez ici mes références ainsi que mes réalisations.
+description: Ariane Save
 
-permalink: /posts/:categories/:title
-
-google_analytics: UA-31851675-4
-
-repository: n4zim/n4zim.github.io
-
-disqus:
-  shortcode:
+repository: ariane5s/ariane5s.github.io
 
 sass:
   style: compressed
 
 markdown: kramdown
 
-url: "https://nlachter.fr"
-
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
+url: "https://aintnohenry.com"
 
 exclude:
   - Gemfile
