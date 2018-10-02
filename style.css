@@ -1,0 +1,68 @@
+
+body {
+    color: #003ABF;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    font-weight: 400;
+}
+
+button {
+    color: inherit;
+    cursor: pointer;
+}
+
+button:focus {
+    outline: 0;
+}
+
+h1, h2 {
+    text-transform: uppercase;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 80px;
+    margin-top: 27px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 30px;
+    font-weight: inherit;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+#discover {
+    margin-top: 20px;
+    display: inline-block;
+    border-style: dashed;
+    border-color: #003ABF;
+    border-width: 1px;
+    padding: 1px;
+    width: auto;
+}
+
+#discover button {
+    background-color: transparent;
+    font-size: 25px;
+    font-weight: 700;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #003ABF;
+    padding: 1px 33px;
+}
+
+#forest {
+    position: absolute;
+    z-index: -1;
+    top: 327px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-image: url(./forest.svg);
+    background-position-y: top;
+    background-position-x: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
