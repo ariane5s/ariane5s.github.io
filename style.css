@@ -66,3 +66,23 @@ h2 {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+@media only screen and (max-width: 640px) { /* 75% */
+    h1 { font-size: 60px; }
+    h2 { font-size: 23px; }
+    #discover { margin-top: 15px; }
+    #discover button {
+        font-size: 19px;
+        padding: 1px 25px;
+    }
+}
+
+@media only screen and (max-width: 500px) { /* 58% */
+    h1 { font-size: 35px; }
+    h2 { font-size: 17px; }
+    #discover { margin-top: 9px; }
+    #discover button {
+        font-size: 17px;
+        padding: 1px 15px;
+    }
+}
