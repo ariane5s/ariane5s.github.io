@@ -1,0 +1,38 @@
+
+#discover {
+
+    #left, #right, #bottom {
+        position: absolute;
+        bottom: 0;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    #left, #right {
+        top: 0;
+        background-position-y: bottom;
+    }
+
+    #left {
+        left: 0;
+        background-image: url(./img/arbre-gauche.svg);
+        background-position-x: right;
+        width: 300px;
+    }
+
+    #right {
+        right: 0;
+        background-image: url(./img/arbre-droit.svg);
+        background-position-x: left;
+        width: 404px;
+    }
+
+    #bottom {
+        left: 0;
+        right: 0;
+        height: 100px;
+        background-image: url(./img/bas.svg);
+        background-position-x: center;
+    }
+
+}

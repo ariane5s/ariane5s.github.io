@@ -1,0 +1,16 @@
+title: Blue Forest
+
+description: Blue Forest
+
+repository: ariane5s/ariane5s.github.io
+
+sass:
+  style: compressed
+
+markdown: kramdown
+
+url: "https://blueforest.fr"
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
