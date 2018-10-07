@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<div id="presentation">
+
+    <div>
+        <div>Formation</div>
+        {% for e in site.data.education %}
+            <strong>{{e.name}} ({{e.year}})</strong>
+            <p><i>{{e.school}}</i></p>
+        {% endfor %}
+    </div>
+
+</div>
