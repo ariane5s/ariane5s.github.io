@@ -2,11 +2,15 @@
 ---
 @charset "utf-8";
 
+$FONT_SIZE_LIGHT: 300;
+$FONT_SIZE_REGULAR: 400;
+$FONT_SIZE_BOLD: 700;
+
 body {
   color: #003ABF;
   font-family: 'Open Sans', sans-serif;
   text-align: center;
-  font-weight: 400;
+  font-weight: $FONT_SIZE_REGULAR;
 }
 
 @import "index";
