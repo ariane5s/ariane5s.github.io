@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+{% include header.html %}
+
+<div id="contact">
+
+  <img id="feuille" src="/assets/img/contact.svg" alt="Blue Forest">
+
+  <div id="title">
+    <p>Une idée ? Une envie ? Un projet ?</p>
+    <p class="light">Ce formulaire est fait pour vous !</p>
+  </div>
+
+  <form action="https://getsimpleform.com/messages?form_api_token=8dbf6cc43987e6b67a5bf8c0072acf73" method="post">
+    <input type='hidden' name='redirect_to' value='{{ "/contact" | absolute_url }}?sent'/>
+    <input type="text" placeholder='Nom' name='name'/>
+    <input type="text" placeholder='Adresse e-mail' name='email'/>
+    <textarea placeholder='Message' name="message" rows="5"></textarea>
+    <input type='submit' class="submit" value='Envoyer'/>
+  </form>
+
+  <div id="bottom"></div>
+
+</div>
